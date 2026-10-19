@@ -1,2 +1,3 @@
-former owner of LCN
-developer for LRP
+- former owner of LCN
+
+- developer for LRP
